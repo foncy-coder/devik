@@ -1,4 +1,7 @@
 x= 79
 y=30
 
-print(x*y)
+def add(x,y):
+    print(x+y)
+
+print(add(20,50))

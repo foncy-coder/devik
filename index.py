@@ -6,3 +6,4 @@ def add(x,y):
 
 print(add(20,50))
 print(y/x)
+print(x+y)
